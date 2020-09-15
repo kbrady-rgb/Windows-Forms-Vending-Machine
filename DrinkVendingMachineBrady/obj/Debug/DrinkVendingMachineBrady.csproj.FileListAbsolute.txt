@@ -1,0 +1,38 @@
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe.config
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.DrinkVendingMachineForm.resources
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\C#\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe.config
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.DrinkVendingMachineForm.resources
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.DrinkVendingMachineForm.resources
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\DMACC\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\bin\Debug\DrinkVendingMachineBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.DrinkVendingMachineForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 8\DrinkVendingMachineBrady\DrinkVendingMachineBrady\obj\Debug\DrinkVendingMachineBrady.pdb
